@@ -1,0 +1,31 @@
+.okay_div{
+        
+    border: 5px solid red;
+    border-radius: 20px;
+    height: 200px;
+    width: 300px;
+    margin: 1px;
+    padding: 50px;
+    padding-top: 5px;
+    color: black;
+    text-align: center;
+    display:inline-block;
+
+    }
+
+
+    h1{
+
+        margin-top: 10px;
+        text-align: center;
+        color: red;
+    }
+
+    p{
+text-align: justify;
+color: blue;
+    }
+
+    .specific_color{
+        color: aqua;
+    }
